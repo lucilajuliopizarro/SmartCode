@@ -1,15 +1,16 @@
 #containerbox{
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left:0px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 40px;
 }
 
 #imgspace{
-    margin-top: 10px;
+    margin-top: 20px;
     column-count: 2;
     padding: 0px 10px;
     background-color: #dddddd;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 
 #logimg{
@@ -23,4 +24,8 @@
 
 #text{
     margin: 0px;
+}
+.card-row{
+    border-style: inset;
+   
 }
