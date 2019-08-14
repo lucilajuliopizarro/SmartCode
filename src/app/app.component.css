@@ -1,0 +1,26 @@
+#containerbox{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left:0px;
+}
+
+#imgspace{
+    margin-top: 10px;
+    column-count: 2;
+    padding: 0px 10px;
+    background-color: #dddddd;
+    padding-top: 10px;
+}
+
+#logimg{
+    padding: 5px 20px;
+    margin: 0px;
+}
+
+#enlace{
+    color: #1197af !important;
+}
+
+#text{
+    margin: 0px;
+}

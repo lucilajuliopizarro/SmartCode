@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+.letra{
+    color:#DB2828;
+}
+.titulos{
+    color: #707070;
+   
+}
+.btn{
+    color:#bcc0c4;
+}
+.letras{
+    font-weight:950;
+}
+.main-container{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.form-control{
+    width: 200px;
+}
+
+.colors{
+    color:#1197af;
+}
+/* .btn{
+    color:#1197af!important;
+} */
+#enlace{
+    color: #1197af !important;
+}
